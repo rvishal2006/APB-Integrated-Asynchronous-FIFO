@@ -90,8 +90,3 @@ It also checks FIFO status and empty-read error handling.
 - Processor-to-hardware data transfer
 - Digital system design and verification
 
-## Author
-
-Vishal R
-
-GitHub: https://github.com/rvishal2006
