@@ -90,3 +90,19 @@ It also checks FIFO status and empty-read error handling.
 - Processor-to-hardware data transfer
 - Digital system design and verification
 
+
+## Simulation Waveform
+
+![APB FIFO Waveform](Waveform.png)
+
+## Simulation Results
+
+![FIFO Testbench Output](Output.png)
+
+## FPGA Resource Utilization
+
+![Resource Utilization](Utilization.png)
+
+## Power Estimation
+
+![Power Report](Power.png)
